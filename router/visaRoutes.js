@@ -50,7 +50,7 @@ import {
 import upload from "../middleware/upload.js";
 import Client from "../models/Client.js";
 import VisaTracker from "../models/VisaTracker.js";
-import Appointment from "../models/appointment.js";
+import Appointment from "../models/Appointment.js";
 
 const router = express.Router();
 
